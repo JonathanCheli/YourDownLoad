@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TignumFileDownLoader</string>
+    <string name="enter_url">Enter url..</string>
+    <string name="download">Download</string>
+</resources>
